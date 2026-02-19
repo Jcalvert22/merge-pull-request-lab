@@ -1,7 +1,4 @@
-this is the new line at the top
+# NEW LINE ADDED AT TOP
+this is the orginal file
 
-<h1>adding all my code to this project, jace calvert</h1>
-
-
-```
-adding my code to code existing already
+adding all my code to this project, jace calvert
